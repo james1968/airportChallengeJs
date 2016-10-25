@@ -1,3 +1,5 @@
+'use strict';
+
 function Airport () {
   this._hangar = [];
 }
